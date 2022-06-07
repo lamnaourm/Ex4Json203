@@ -1,0 +1,18 @@
+{
+  "raisonSociale": "CGI IT Technologies",
+  "adresse" : "rabat",
+  "departement" : [
+    {
+      "nom": "JAVA JEE",
+      "nbEmploye": 30
+    },
+    {
+      "nom": "DotNET",
+      "nbEmploye": 20
+    },
+    {
+      "nom": "Python",
+      "nbEmploye": 10
+    }
+  ]
+}
