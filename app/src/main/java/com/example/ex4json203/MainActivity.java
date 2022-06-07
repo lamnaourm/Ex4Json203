@@ -29,5 +29,8 @@ public class MainActivity extends AppCompatActivity {
         return "";
     }
 
+    public Entreprise getEntreprise(){
+        return null;
+    }
 
 }
